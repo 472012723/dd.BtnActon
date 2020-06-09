@@ -19,5 +19,12 @@
     // Do any additional setup after loading the view.
 }
 
+- (IBAction)redAtion:(id)sender {
+    
+    NSLog(@"红色");
+}
+- (IBAction)blueAtion:(id)sender {
+    NSLog(@"蓝色");
+}
 
 @end
